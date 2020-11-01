@@ -15,7 +15,6 @@
 ## About me:
 - 🌱 I’m currently learning C and Python;
 - 👯 I’m looking to contribute to FOSS;
-- 📝[Resume]()
 
 <details>
 	<summary><b>:pushpin: Languages and Tools</b></summary>
@@ -38,7 +37,6 @@
        		<li><b>WM:</b> dwm </lit>
 	    	<li><b>Laptop: </b> Aspire ES1-572 (i5)</li>
 		<li><b>Browser: </b> Brave</li>
-   		<li><b>Checkout My dotfiles:</b> <a href="">Here</a>.</li>
 		<br />
 	</ul>	
 </details>
