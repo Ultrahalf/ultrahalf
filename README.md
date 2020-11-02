@@ -31,18 +31,18 @@
 
 <details>	
 	<br />
-  	<summary><b>⚙️ Things I use</b></summary>
+  	<summary><b>⚙️ Things I use:</b></summary>
   	<ul>
-  		<li><b>OS:</b> Arch Linux</li>
-       		<li><b>WM:</b> dwm </lit>
-	    	<li><b>Laptop: </b> Aspire ES1-572 (i5)</li>
-		<li><b>Browser: </b> Brave</li>
+  		<li><b>OS:</b> Arch Linux;</li>
+       		<li><b>WM:</b> dwm;</lit>
+	    	<li><b>Laptop: </b> Aspire ES1-572 (i5);</li>
+		<li><b>Browser: </b> Brave;</li>
 		<br />
 	</ul>	
 </details>
 
 <details>
-	<summary>:zap: <b>GitHub Stats</b></summary>
+	<summary>:zap: <b>GitHub Stats:</b></summary>
 	<img 
 	src="https://github-readme-stats.vercel.app/api?username=Ultrahalf&hide=stars&show_icons=true" alt="Ultrahalf's Github stats" />
 </details>
