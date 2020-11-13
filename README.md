@@ -33,7 +33,7 @@
 	<br />
   	<summary><b>⚙️ Things I use:</b></summary>
   	<ul>
-  		<li><b>OS:</b> Arch Linux;</li>
+  		<li><b>OS:</b> Artix(openrc) and Windows 10;</li>
        		<li><b>WM:</b> dwm;</lit>
 	    	<li><b>Laptop: </b> Aspire ES1-572 (i5);</li>
 		<li><b>Browser: </b> Brave;</li>
