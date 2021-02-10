@@ -1,45 +1,9 @@
 <div align="center">
 	<h1>Hi there, I'm Althaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-
-<p align="center"> 
-	Visitor count<br>
-	<img src="https://profile-counter.glitch.me/Ultrahalf/count.svg" />
-</p>
-
-<div align="center">
-	<img 
-	src="giphy.gif" alt="cool gif" />
-</div>
-
 ## About me:
 - 🌱 I’m currently learning C and Python;
 - 👯 I’m looking to contribute to FOSS;
-
-<details>
-	<summary><b>:pushpin: Languages and Tools</b></summary>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-	<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</details>
-
-<details>	
-	<br />
-  	<summary><b>⚙️ Things I use:</b></summary>
-  	<ul>
-  		<li><b>OS:</b> Artix(openrc);</li>
-       		<li><b>WM:</b> dwm;</lit>
-	    	<li><b>Laptop: </b> Aspire ES1-572 (i5);</li>
-		<li><b>Browser: </b> firefox;</li>
-		<br />
-	</ul>	
-</details>
 
 <details>
 	<summary>:zap: <b>GitHub Stats:</b></summary>
