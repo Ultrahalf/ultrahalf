@@ -29,9 +29,10 @@
 ░░░░░░░░░░░░░░░░░░░░░░░▄░░░░░░░░░░░░░░░░░░░░░░░░░▀
 </div>
 <br>
-## About me:
-- 🌱 I’m currently learning C and Python;
-- 👯 I’m looking to contribute to FOSS;
+
+# About me:
+	- 🌱 I’m currently learning C and Python;
+	- 👯 I’m looking to contribute to FOSS;
 
 <details>
 	<summary>:zap: <b>GitHub Stats:</b></summary>
