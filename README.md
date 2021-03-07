@@ -28,8 +28,8 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░▄░░░░░░░░░░░░░░░░░░░░▀▀███
 ░░░░░░░░░░░░░░░░░░░░░░░▄░░░░░░░░░░░░░░░░░░░░░░░░░▀
 </div>
-<div align="center">
-# About me:
+<br>
+## About me:
 - 🌱 I’m currently learning C and Python;
 - 👯 I’m looking to contribute to FOSS;
 
@@ -38,7 +38,6 @@
 	<img 
 	src="https://github-readme-stats.vercel.app/api?username=Ultrahalf&hide=stars&show_icons=true" alt="Ultrahalf's Github stats" />
 </details>
-</div>
 <!--- referred
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 --->
