@@ -34,9 +34,8 @@
 	- 👯 I’m looking to contribute to FOSS;
 
 <div>
-	<summary>:zap: <b>GitHub Stats:</b></summary>
 	<img 
-	src="https://github-readme-stats.vercel.app/api?username=Ultrahalf&hide=stars&show_icons=true" alt="Ultrahalf's Github stats" />
+	src="https://github-readme-stats.vercel.app/api?username=Ultrahalf&hide=stars&show_icons=true&theme=dark" alt="Ultrahalf's Github stats" />
 </div>
 <!--- referred
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
