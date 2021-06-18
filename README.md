@@ -3,8 +3,8 @@
 </div>
 
 # About me:
-	- 🌱 I’m currently learning C and Python;
-	- 👯 I’m looking to contribute to FOSS;
+	- 🌱 I’m always trying to learn new stuff
+	- 👯 I’m looking to contribute to FOSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultrahalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrahalf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
