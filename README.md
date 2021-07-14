@@ -3,7 +3,6 @@
 </div>
 
 # About me:
-	- 🌱 I’m always trying to learn new stuff
 	- 👯 I’m looking to contribute to FOSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultrahalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
